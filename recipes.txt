@@ -8,3 +8,5 @@ Boost
 Horlicks
 Vanila
 Strawberry
+Beans
+Pizza
